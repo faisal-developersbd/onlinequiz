@@ -124,7 +124,7 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
                         <div class="news_content">
 						<p><span></span>
 						now learn  how to develop android application free of cost</p><br>
-                        <a href="www.javatpoint.com" class="read_more">read more</a>                        
+                        <a href="#" class="read_more">read more</a>                        
                         </div>
                     </div>
                     <br>
@@ -133,7 +133,7 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
                         <div class="news_content">
 						<p><span></span>
 						we have latest projects uploaded on my site</p>
-                        <a href="www.cstpoint.com" class="read_more">read more</a>                        
+                        <a href="#" class="read_more">read more</a>                        
                         </div>
                     </div>                    
                     
@@ -179,15 +179,15 @@ request.setAttribute("notlogin_msg","Sorry,Please do Login first");
  </div>                   
                   <div class="services">
                     <ul>                                        
-                       <li><a href="www.javatpoint.com">Java tutorial</a></li>
-                       <li><a href="www.cstpoint.com">CSE tutorial</a></li>
+                       <li><a href="#">Java tutorial</a></li>
+                       <li><a href="#">CSE tutorial</a></li>
                     </ul>
                 </div>
                 
                  <div class="services">
                     <ul>                                        
-                       <li><a href="www.javatpoint.com">Java tutorial</a></li>
-                       <li><a href="www.cstpoint.com">CSE tutorial</a></li>
+                       <li><a href="#">Java tutorial</a></li>
+                       <li><a href="#">CSE tutorial</a></li>
                     </ul>
                 </div>  
                    

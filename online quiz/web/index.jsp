@@ -156,15 +156,15 @@
  </div>                   
                   <div class="services">
                     <ul>                                        
-                       <li><a href="www.javatpoint.com">Java tutorial</a></li>
-                       <li><a href="www.cstpoint.com">CSE tutorial</a></li>
+                       <li><a href="#">Java tutorial</a></li>
+                       <li><a href="#">CSE tutorial</a></li>
                     </ul>
                 </div>
                 
                  <div class="services">
                     <ul>                                        
-                       <li><a href="www.javatpoint.com">Java tutorial</a></li>
-                       <li><a href="www.cstpoint.com">CSE tutorial</a></li>
+                       <li><a href="#">Java tutorial</a></li>
+                       <li><a href="#">CSE tutorial</a></li>
                     </ul>
                 </div>  
                    

@@ -55,13 +55,13 @@
                 		<h1>Contact Us</h1>
                         <img src="images/contact_icon.gif" alt="" title="">
                         <p class="contact_info">
-<span class="orange">Adress:</span> H-109,Shakarpur<br>
+<span class="orange">Adress:</span> Kaderabad Housing,Mohammadpur<br>
 
-<span class="orange">Telephone:</span> 0123456789<br>
+<span class="orange">Telephone:</span> 01683864835<br>
 
 
 
-<span class="orange">Email:</span> <a href="rishi.kumar91@facebook.com">info@company.com</a><br>
+<span class="orange">Email:</span> <a href="faisal.hossain.pk@gmail.com">faisal.hossain.pk@gmail.com</a><br>
                         </p>
                 	</div>
                 </div>
@@ -106,14 +106,14 @@
                 <div class="project_box">
                     <a href="#"><img src="images/clients_icon.gif" alt="" title="" class="left_img" border="0"></a>
                     <p>
-<a href="www.javatpoint.com">javatpoint.com</a>
+<a href="#">someclient.com</a>
                     </p>
                 </div>
 
                 <div class="project_box">
                     <a href="#"><img src="images/clients_icon.gif" alt="" title="" class="left_img" border="0"></a>
                     <p>
-<a href="www.cstpoint.com">cstpoint.com</a>
+<a href="#">lict.com</a>
                     </p>
                 </div>
             </div><!--end of right content-->

@@ -1,5 +1,5 @@
 
-package com.javatpoint;
+package com.lict.project;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
 import com.mysql.jdbc.Statement;
